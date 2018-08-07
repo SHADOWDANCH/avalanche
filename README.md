@@ -8,17 +8,17 @@ This setting doesn't need to be changed when using `127.0.0.1` to log in.
 
 ## Building
 ### Ubuntu  
-`git submodule init`
-`git submodule update`  
-Install the [dependencies](https://github.com/plushmonkey/mclib/blob/master/README.md#building) for mclib.  
-`make`
+1. `git submodule init`
+2. `git submodule update`  
+3. Install the [dependencies](https://github.com/plushmonkey/mclib/blob/master/README.md#building) for mclib.  
+4. `make`
 
 ### Windows
-`git submodule init`
-`git submodule update`  
-Unzip `lib.zip` in the mclib directory.  
-Build mclib.  
-Open `avalanche.sln` with Visual Studio 2017 and build.
+1. `git submodule init`
+2. `git submodule update`  
+3. Unzip `lib.zip` in the mclib directory.  
+4. Build mclib.  
+5. Open `avalanche.sln` with Visual Studio 2017 and build.
 
 ## Behaviors  
 ### delay  

@@ -1,3 +1,6 @@
 [submodule "lib/mclib"]
 	path = lib/mclib
 	url = https://github.com/plushmonkey/mclib.git
+[submodule "lib\\mclib"]
+	path = lib\\mclib
+	url = https://github.com/plushmonkey/mclib.git
