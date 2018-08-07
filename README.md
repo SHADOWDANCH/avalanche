@@ -8,11 +8,13 @@ This setting doesn't need to be changed when using `127.0.0.1` to log in.
 
 ## Building
 ### Ubuntu  
+`git submodule init`
 `git submodule update`  
 Install the [dependencies](https://github.com/plushmonkey/mclib/blob/master/README.md#building) for mclib.  
 `make`
 
 ### Windows
+`git submodule init`
 `git submodule update`  
 Unzip `lib.zip` in the mclib directory.  
 Build mclib.  
